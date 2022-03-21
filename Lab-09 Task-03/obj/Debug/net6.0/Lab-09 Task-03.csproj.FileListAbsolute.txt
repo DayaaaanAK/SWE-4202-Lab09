@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\Lab-09 Task-03.exe
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\Lab-09 Task-03.deps.json
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\Lab-09 Task-03.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\Lab-09 Task-03.dll
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\ref\Lab-09 Task-03.dll
+C:\Users\Asus\source\repos\Lab-09 Task-03\bin\Debug\net6.0\Lab-09 Task-03.pdb
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.dll
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\ref\Lab-09 Task-03.dll
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.pdb
+C:\Users\Asus\source\repos\Lab-09 Task-03\obj\Debug\net6.0\Lab-09 Task-03.genruntimeconfig.cache
